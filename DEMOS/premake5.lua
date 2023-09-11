@@ -1,0 +1,7 @@
+group "HardwareVendorDemo/EVOC"
+	include "GPIO"
+	include "BEEP"
+	include "HWM"
+	include "LED"
+	include "WATCHDOG"
+group ""
