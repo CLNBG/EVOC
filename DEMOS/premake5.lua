@@ -1,4 +1,4 @@
-group "HardwareVendorDemo/EVOC"
+group "Hardware.Vendor.Demos/EVOC"
 	include "GPIO"
 	include "BEEP"
 	include "HWM"
